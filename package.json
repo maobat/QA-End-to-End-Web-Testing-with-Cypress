@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mwaz/Automation-Testing-with-Cypress/issues"
   },
-  "homepage": "https://github.com/mwaz/Automation-Testing-with-Cypress#readme"
+  "homepage": "https://github.com/mwaz/Automation-Testing-with-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
 }
