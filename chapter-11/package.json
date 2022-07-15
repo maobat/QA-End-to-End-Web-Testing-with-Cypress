@@ -1,5 +1,5 @@
 {
-  "name": "chapter-12",
+  "name": "chapter-11",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/mwaz/Automation-Testing-with-Cypress#readme",
   "devDependencies": {
-    "cypress": "^6.2.1"
+    "cypress": "^10.3.0"
   }
 }

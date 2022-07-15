@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/mwaz/Automation-Testing-with-Cypress#readme",
   "devDependencies": {
-    "cypress": "^6.2.1"
+    "cypress": "^10.3.0"
   }
 }

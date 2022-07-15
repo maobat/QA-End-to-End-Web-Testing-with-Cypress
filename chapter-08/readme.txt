@@ -1,0 +1,1 @@
+Understanding Variables and Aliases in Cypress

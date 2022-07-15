@@ -7,6 +7,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       return require('./cypress/plugins/index.js')(on, config)
     },
-    watchForFileChanges: true
+    baseUrl: 'http://localhost:3000/',
   },
 })
