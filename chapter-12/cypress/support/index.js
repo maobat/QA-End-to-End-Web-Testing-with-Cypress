@@ -21,3 +21,6 @@ import './commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+
+// adding Percy snapshots to your Cypress tests
+import '@percy/cypress'
